@@ -24,7 +24,7 @@ class SearchScreen extends StatelessWidget {
               label: 'Поиск',
             ),
             BottomNavigationBarItem(
-                icon: Icon(Icons.favorite), title: Text('Фавориты'))
+                icon: Icon(Icons.favorite), label: 'Фавориты')
           ],
         ),
       ),
