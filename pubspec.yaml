@@ -19,7 +19,6 @@ dependencies:
   url_launcher: ^6.0.9
   json_annotation: ^4.0.1
   google_fonts: ^2.1.0
-  flutter_colorpicker: ^0.5.0
   getwidget: ^2.0.3
 
 dev_dependencies:
